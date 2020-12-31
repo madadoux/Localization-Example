@@ -1,0 +1,11 @@
+/* 
+  localization.strings
+  Localization
+
+  Created by Mohamed saeed on 12/22/20.
+  
+*/
+"ahmed"= "احمد";
+"changeLang" = "تغيير اللغه";
+"Go" = "الذهاب";
+"Computer" = "الكمبيوتر";
